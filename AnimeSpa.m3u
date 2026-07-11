@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVAnimeLatam.us" tvg-logo="https://i.imgur.com/8N4Nzg0.png" group-title="Anime",Pluto TV Anime
+https://images-i.secure.footprint.net/amagi/281/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimeClassicsPlutoTV.us" tvg-logo="https://i.imgur.com/xsc0A6O.png" group-title="Anime",Pluto TV Anime Classics
+https://images-i.secure.footprint.net/amagi/282/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeAnime.us" tvg-logo="https://i.imgur.com/A6jFwR0.png" group-title="Anime",Runtime Anime
+https://runtime-runtime-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StirrAnime.us" tvg-logo="https://i.imgur.com/k9mX8P0.png" group-title="Anime",Stirr Anime
+https://stirr-anime-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gK6B2P0.png" group-title="Anime",Anime Nexo Latam
+https://stream.animenexo.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCartoons.us" tvg-logo="https://i.imgur.com/YwPZ7O0.png" group-title="Caricaturas",Pluto TV Animación
+https://images-i.secure.footprint.net/amagi/280/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TooncastLatam.cl" tvg-logo="https://i.imgur.com/8S9pB10.png" group-title="Caricaturas Retro",Tooncast (Feed Alternativo)
+https://linear-419.btex.tv/v1/manifest/07b5a5b50/tooncast/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVClassicCartoons.us" tvg-logo="https://i.imgur.com/3N4pZ2A.png" group-title="Caricaturas Retro",Pluto TV Caricaturas Clásicas
+https://images-i.secure.footprint.net/amagi/285/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuTvKids.co" tvg-logo="https://i.imgur.com/v8K7z30.png" group-title="Caricaturas",TuTV Kids Latino
+https://stream.tutv.com/live/kids/playlist.m3u8
